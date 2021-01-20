@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "the-football-association-2021",
+  "private_key_id": "85a8b9a3fe616bdeb5ec471d4b4388d553693e8b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFYPehQmZF8bM2\ncMBgZSLOcwdWIapwk+qRb13sHtH2p0Vf8g26BoNEbY/SGys/aARLGUcXmoEym36M\nloLPbLx0AT4H4mpD0Dr9Ia1cUsoRkT7xkrEs+B3jZWqm6/YdQzIDsoe3ep3G+E3i\npUOS8rBEXDjDGf+AR3vsRq5hPf/uw1sPO7gZHI86DPh1idI4qZS/o3jBpyru+vwd\n/cBP3nFayI8qFYJ7kcirrpwUdm3UQaB4JBj0WOuoRof5KUC6MGLf3l03IFelTdHH\nsac2vGT5Ltp9EOet7qOtgB0353mf9XwJ2U/GyVhLu8vEUsz51t5CQ2FXU9NxrEpN\nhcc0ZnetAgMBAAECggEADpR4iP81EP7HFfhTYZt+7CCiSVoVyMNIZ8NXUlvpdxlJ\nPjU3ZIcwIaPKj1g7RC+xvNQVGg4rSTAkHjb3r+JQnmzBZrGH131gKiGCIz3TWDkH\nh66QwL64QyX98EQhtezS2uPlyLzO6asfDQ+s/kPH7QN3Ru7anotz65LCCq6wLd8Q\n/hdPSgyTp4ySvK8WctL6CAxsGda/4sD2WV4lHq2HiikGVBeiV1f/wJbEPWB5pDRQ\nYbzOBCGFdPyotE9y9F7xtcbAqALfjVQc5KUOdE+5Bj6luo4iJXSbAAy3actRri0u\n5eQqMqqBGbMkQZ2Pf//AeNINVCcx/BPG/LepL4YzoQKBgQDqmanJxt6maXihN/8/\nB+SsR5AQKWeQ+Fdbk/ElL9wKR9jAD2fpxjdvZq1Bn0mNY/10gOXZ5GFmOOogEG7b\nXCgAiwsbWB5A5BpBU62GdBMX5DxD3c/QQZrRN4EZIher8Kq1PRBpbgWNZ83+Cx8T\np/Zms3N/AUvyqX+Fe7MJq3TgDQKBgQDXYh2xNRkx7c5ZWdC5GhHVy+GIvb+wTixy\nNiU9fvClLmDhvi2wvCyWrVMiNiOQeA9LlxQYhkf3PiG2He1ENRhfMN9qJLrWa0U0\ntYm69FDXH9B37oZ9vz+sKIOyFrLLmcAbK+52YXh7D31mLZ6tiZmL8+jv8kdhacF2\nLEx31lBuIQKBgCGMb/dm9RgfJR0JAPtmiZEJetSU1zaoDPYPpgCHY5Qkyh5NFbMc\noXjQ2h30RXRuxCQQ+s26FyOjJ/gF4ZSFDUNmnuP+KfVlqUuGR95eYwybmvKpmbpS\nZ21b3p5VfcUc2YypettY3HpoSdD2ji8ladst9mpHKTE+g/n2wpezaTdRAoGAKxNJ\nYu5+qnioA0CuOMbY+Ew9P+7LDoSj6PehPQpNMIv0/lDdrHIF7OCfNsFjHXqVfIWr\nlDgO3ojDjzuu/ywrQqZwmDbeUxHDFoaUFBrWrB+FvuaqaS29mz3DEPPvMD8Ap66C\nk5Rs1xfC+ZN4H7bcSZwvYwWudvICqhKz/GeVUGECgYEAnPv6gSwN7fsp4Y3OKdut\ns8FDQFRWXnt4pH47VYfcB/pDdeAyT8xRCUZFJzCXsUQLnQlkppixDn6iNKI2xMIL\nAlr+NixzWMqwUuHx7OG0+4yjVsEMeylS8RP5kBinXB4vzKRL6RZqQyRziAhvpdhQ\nB4U31+t+JmJOiJ7LHrgbpcs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-f4vnf@the-football-association-2021.iam.gserviceaccount.com",
+  "client_id": "105788524084098769051",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-f4vnf%40the-football-association-2021.iam.gserviceaccount.com"
+}
